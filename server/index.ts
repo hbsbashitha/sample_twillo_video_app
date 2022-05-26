@@ -1,4 +1,4 @@
-import './bootstrap-globals';
+import './bootstrap-global';
 import { createExpressHandler } from './createExpressHandler';
 import express, { RequestHandler } from 'express';
 import path from 'path';
